@@ -152,10 +152,12 @@ nav {
 
 /* clase 8 styles */
 .mobile-menu {
+    width: 100%;
     position: absolute;
     top: 60px;
     left: 0;
     padding: 24px;
+    background: #f0f0f0;
 }
   .mobile-menu a {
     text-decoration: none;
